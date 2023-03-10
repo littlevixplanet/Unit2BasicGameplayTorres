@@ -7,9 +7,65 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 126298, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 127546, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
       propertyPath: m_Name
       value: Animal_Fox_01 Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 127546, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 127546, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_TagString
+      value: Animal
+      objectReference: {fileID: 0}
+    - target: {fileID: 129024, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 138164, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 143112, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 151198, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 151396, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 151728, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 171658, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 184784, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 187956, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 197232, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 199408, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 441440, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
       propertyPath: m_RootOrder
