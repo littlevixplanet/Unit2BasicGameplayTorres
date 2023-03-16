@@ -435,6 +435,7 @@ GameObject:
   m_Component:
   - component: {fileID: 431108}
   - component: {fileID: 9537896}
+  - component: {fileID: 2907209452701246172}
   - component: {fileID: 2360453549853525624}
   m_Layer: 0
   m_Name: Animal_Moose_01
@@ -488,6 +489,20 @@ Animator:
   m_HasTransformHierarchy: 0
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &2907209452701246172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 148086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2510cf30166d22a4894fe62e1ffab4fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hungerSlider: {fileID: 0}
+  amountToBeFed: 0
 --- !u!114 &2360453549853525624
 MonoBehaviour:
   m_ObjectHideFlags: 0
